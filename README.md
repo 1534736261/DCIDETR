@@ -23,6 +23,7 @@ First, Users need to pre-process visdrone2019 dataset, Please get the yolo forma
 
 ```
 pip install -r requirements.txt
+unzip ultralytics.zip
 python train.py
 python val.py
 ```
