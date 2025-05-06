@@ -1,6 +1,6 @@
 # Enhancing Small Object Detection in UAV Aerial Imagery with DCI-DETR: A Deep Learning Approach
 
-> Ming Xina, Bo Wang, Xin Wang, Kaiting Gong, Caili Fang
+> Ming Xin, Bo Wang, Xin Wang, Kaiting Gong, Caili Fang
 
 ## Introduction
 
